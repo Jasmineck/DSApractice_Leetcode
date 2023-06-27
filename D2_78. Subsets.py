@@ -1,5 +1,5 @@
 """ Link-https://leetcode.com/problems/subsets/
-WRONG ANSWER COULDN'T SOLVE
+WRONG ANSWER COULDN'T SOLVE (POWER SET QUESTION)
 Given an integer array nums of unique elements, return all possible subsets (the power set).
 
 The solution set must not contain duplicate subsets. Return the solution in any order."""
